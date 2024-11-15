@@ -1,5 +1,5 @@
 usage: read the code
 
-dependencies: pugixml
+dependencies: pugixml, windwos
 
 enjoy
